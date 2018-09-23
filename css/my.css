@@ -1,0 +1,25 @@
+html, body {
+    height: 100%; 
+    margin: 0;
+}
+
+.tbl-cell {
+    display: table-cell;
+}
+
+.span-rect {
+    width: 0.05em; 
+    height: 0.05em;
+}
+
+.input-label {
+    line-height: 0.05em;
+    vertical-align: middle;
+    padding-left: 0.5em; 
+    padding-right: 0.5em;
+    font-size: 0.88em;
+}
+
+span strong {
+    pointer-events: none;
+}
