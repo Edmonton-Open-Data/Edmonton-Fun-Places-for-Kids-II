@@ -1,3 +1,4 @@
+<a href="https://edmonton-open-data.github.io/Edmonton-Fun-Places-for-Kids-II/" target="_blank">![](fun-places-kids-II.gif)</a>
 ## My Other Projects
 Criticism and feedback highly recommended. Shoot me an <a href="https://mikelotis.github.io/#web" target="_blank">email</a>.
 - <a href="https://mikelotis.github.io/" target="_blank"><strong>OTHER PROJECTS</strong></a>
@@ -15,6 +16,5 @@ Criticism and feedback highly recommended. Shoot me an <a href="https://mikeloti
 - <a href="https://dc-js.github.io/dc.js/examples/html-legend.html" target="_blank">Assited, to make inputs look nice</a>
 - <a href="https://www.canva.com/learn/100-color-combinations/" target="_blank">Got colors Here</a>
 - <a href="https://www.w3schools.com/Tags/att_input_checked.asp" target="_blank">HTML input checked Attribute</a>
-- <a href="https://ezgif.com/" target="_blank">ezgif</a> used to make block's thumbnail and tweet's 
-  <a href="" target="_blank">gif</a>
+- <a href="https://obsproject.com/" target="_blank">OBS</a> and <a href="https://ezgif.com/" target="_blank">ezgif</a> used to make the gif above
   
